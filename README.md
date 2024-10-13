@@ -1,5 +1,4 @@
 # 5113056042_HW1
-5113056042_HW1
 
 Instructions for running the app:
 
@@ -15,4 +14,3 @@ Adjustable sliders in the sidebar for slope, noise, and number of data points.
 A table showing the generated dataset.
 Model performance metrics (MSE and R²).
 A scatter plot with the actual vs. predicted values and the regression line.
-You can adjust the parameters and rerun the analysis as needed.
