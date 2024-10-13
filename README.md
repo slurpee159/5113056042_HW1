@@ -1,5 +1,7 @@
 # 5113056042_HW1
 
+This program uses a Streamlit application to perform linear regression analysis and is developed following the CRISP-DM (Cross-Industry Standard Process for Data Mining) methodology. Users can interactively adjust parameters, observe the impact of different variables on the regression model, and view the results in real time.
+
 Instructions for running the app:
 
 Install necessary libraries if you don't have them:  
